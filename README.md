@@ -13,6 +13,12 @@ A página apresenta informações sobre a origem do Android, sua evolução e al
 * **HTML5**
 * **CSS3**
 
+## 🛠️ Ferramentas utilizadas
+
+* **Visual Studio Code**
+* **Git**
+* **GitHub**
+
 ## 📚 Conceitos praticados
 
 Durante o desenvolvimento do projeto, foram praticados conceitos como:
