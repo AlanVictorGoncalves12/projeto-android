@@ -35,15 +35,6 @@ Durante o desenvolvimento do projeto, foram praticados conceitos como:
 
 O objetivo deste projeto foi colocar em prática os conhecimentos de **HTML5 e CSS3** apresentados ao longo do curso, desenvolvendo uma página web completa e responsiva.
 
-## 🎓 Curso
-
-**HTML5 e CSS3 — Curso em Vídeo**
-
-Professor: **Gustavo Guanabara**
-
-Canal: **Curso em Vídeo**
-
-[YouTube — Curso em Vídeo](https://www.youtube.com/@cursoemvideo)
 
 ## 📂 Estrutura do projeto
 
@@ -55,6 +46,22 @@ Canal: **Curso em Vídeo**
  ┣ 📜 index.html
  ┗ 📜 README.md
 ```
+
+
+## 🎓 Curso
+
+**HTML5 e CSS3 — Curso em Vídeo**
+
+Professor: **Gustavo Guanabara**
+
+Canal: **Curso em Vídeo**
+
+[YouTube — Curso em Vídeo](https://www.youtube.com/@cursoemvideo)
+
+
+## 🌐 Projeto
+
+O projeto pode ser acessado através do **GitHub Pages**, [Clique Aqui](https://alanvictorgoncalves12.github.io/projeto-android/).
 
 ---
 
